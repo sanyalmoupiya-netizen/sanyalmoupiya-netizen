@@ -6,7 +6,7 @@ grind one problem at a time.
 
 ## 🎓 Currently
 
-- **IIEST Shibpur** — B.Tech CSE (batch 2028)
+- **IIEST Shibpur** — B.Tech CSE (batch 2029)
 - DSA: LeetCode + Codeforces
 - Open source: contributing to **kubernetes-sigs/jobset** (Kubernetes)
 

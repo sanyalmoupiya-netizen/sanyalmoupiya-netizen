@@ -21,7 +21,9 @@ personalized watch history. The project I know line-by-line.
 - **[JobSet (Kubernetes)](https://github.com/kubernetes-sigs/jobset)**: PR for a
   distributed PyTorch GPU training example — learned DDP, stable hostnames and
   failure policies by reading the controller source.
-- **[cncf/landscape](https://github.com/cncf/landscape)**: data contributions.
+- **[cncf/landscape](https://github.com/cncf/landscape)**: 2 open PRs cleaning
+  up project data — [remove orphaned logos](https://github.com/cncf/landscape/pull/5125)
+  and [remove duplicate project entries](https://github.com/cncf/landscape/pull/5129).
 
 ## 🚧 Learning in the open
 

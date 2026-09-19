@@ -1,8 +1,9 @@
 # Hi, I'm Moupiya Sanyal
 
-Second-year **B.Tech in Computer Science** at **IIEST Shibpur**. I build
-software I can actually explain and defend, and I'm fighting through the DSA
-grind one problem at a time.
+Second-year **B.Tech in Computer Science** at **IIEST Shibpur**. I contribute to
+open source (**kubernetes-sigs/jobset** and **cncf/landscape**) and build
+software I can actually explain and defend — one git commit and one LeetCode
+problem at a time.
 
 ## 🎓 Currently
 
